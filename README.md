@@ -10,7 +10,7 @@ This project is a hands-on learning tool designed to explore and master the Go p
 6. Write unit tests for API endpoints
 7. Document the API using Swagger or a similar tool
 
-Let's dive into the project!
+Let's dive into the project
 
 ## Installing and Basics
 ### Initializing a new Go module
