@@ -30,4 +30,4 @@ Following command will add Gin framework as a dependency of the current project:
 - Note that the `-u` flag in the command stands for update. With `-u`, it will check for updates to all direct and indirect dependencies and download the latest compatible versions.
 - After applying the command, you will see that `require ( ... )` field has been added to the `go.mod` file.
 
-We're ready-to-Go!
+The following instructions will go straight into using Gin framework. If this is your first time programming in Go, look at `/syntax` directory of the project to learn the basic syntaxo.
